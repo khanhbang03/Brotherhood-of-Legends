@@ -16,3 +16,4 @@
 <img width="245" height="206" alt="image" src="https://github.com/user-attachments/assets/c897ee44-0e66-4e40-9d38-a016392721b2" />
 <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/7c7582be-250c-418e-b896-1d8c2c334e10" />
 https://x.com/elonmusk/status/2012484620437119261?s=20
+https://codeforces.com/profile/tourist
